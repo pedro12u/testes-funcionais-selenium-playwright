@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": ["@playwright/test"],
+    "module": "commonjs",
+    "target": "esnext",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
