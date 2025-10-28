@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: problema01.CheckoutServiceTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 s -- in problema01.CheckoutServiceTest
